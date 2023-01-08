@@ -2,7 +2,7 @@
 Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.js, MongoDB, Handlebar, HTML & CSS
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="./assets/techstack.gif" width="360px"/>
 <b>About Me ✨</b>
 
 - ✨ Experience of 10 Years+ as Javascript Developer.
@@ -27,39 +27,39 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./assets/javascript.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/typescript.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./assets/react.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./assets/node.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/git-scm.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Github
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./assets/figma.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
