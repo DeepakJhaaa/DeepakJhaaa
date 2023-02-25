@@ -23,117 +23,195 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
+<table style="width:100%">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/javascript.svg" width="48" height="48" alt="C#" />
+        <img src="./assets/javascript.jpg" width="144" alt="C#" />
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/typescript.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/jquery.jpg"  width="144" alt="Python" />
       </a>
-      <br>Typescript
+      <br>jQuery
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/react.svg" width="48" height="48" alt="Golang" />
+        <img src="./assets/html.jpg"  width="144" alt="Python" />
       </a>
-      <br>React
+      <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/node.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./assets/css.jpg"  width="144" alt="Python" />
       </a>
-      <br>Node.js
+      <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/git-scm.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./assets/figma.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./assets/bootstrap.jpg"  width="144" alt="Python" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./assets/sass.jpg"  width="144" alt="Python" />
       </a>
-      <br>Sass
+      <br>SASS
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./assets/ionic.jpg"  width="144" alt="Jsonnet" />
       </a>
-      <br>Debian
+      <br>Ionic
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./assets/angular.jpg"  width="144" alt="Golang" />
       </a>
-      <br>RHEL
+      <br>Angular
     </td>
-    <td align="center" width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./assets/typescript.jpg"  width="144" alt="Golang" />
       </a>
-      <br>Powershell
+      <br>Typescript
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./assets/react.jpg"  width="144" alt="Jsonnet" />
       </a>
-      <br>MySQL
+      <br>React
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/git-scm.svg"  width="144" alt="TypeScript" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/git-scm.svg"  width="144" alt="TypeScript" />
+      </a>
+      <br>NGRX
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="JavaScript" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech" >
+        <img src="./assets/figma.svg"  width="144" height="144" alt="React" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Bootstrap" />
+      </a>
+      <br>Nest.js
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Sass" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Bootstrap" />
+      </a>
+      <br>Mongoose
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Sass" />
+      </a>
+      <br>Elasticsearch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16.66%"> 
+      <a href="#macropower-tech" >
+        <img src="./assets/javascript.svg"  width="144" height="144" alt="Docker" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="16.66%"> 
+      <a href="#macropower-tech" >
+        <img src="./assets/javascript.svg"  width="144" height="144" alt="Docker" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"  width="144" height="144" alt="Kubernetes" />
+      </a>
+      <br>Postgress
+    </td>
+    <td align="center" >
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Debian" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"  width="144" height="144" alt="Kubernetes" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" >
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="Debian" />
+      </a>
+      <br>NGINX
+    </td>
+  </tr>
+  <tr>
+    <td align="center" >
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="RHEL" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg"  width="144" height="144" alt="Powershell" />
+      </a>
+      <br>Bitbucket
+    </td>
+    <td align="center" >
+      <a href="#macropower-tech">
+        <img src="./assets/figma.svg"  width="144" height="144" alt="MySQL" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="16.66%">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg"  width="144" height="144" alt="Grafana" />
+      </a>
+      <br>Gitlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./assets/figma.svg" width="144" height="144" alt="Prometheus" />
       </a>
-      <br>Grafana
+      <br>webpack
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="144" height="144" alt="Thanos" />
       </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+      <br>more..
     </td>
   </tr>
 </table>
