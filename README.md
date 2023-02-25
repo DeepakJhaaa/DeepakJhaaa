@@ -141,37 +141,37 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
   <tr>
     <td align="center" width="16.66%"> 
       <a href="#macropower-tech" >
-        <img src="./assets/javascript.svg"  width="144" height="144" alt="Docker" />
+        <img src="./assets/firebase.jpg"  width="144" alt="Docker" />
       </a>
-      <br>SQLite
+      <br>Firebase
     </td>
     <td align="center" width="16.66%"> 
       <a href="#macropower-tech" >
-        <img src="./assets/javascript.svg"  width="144" height="144" alt="Docker" />
+        <img src="./assets/redis.jpg"  width="144" alt="Docker" />
       </a>
       <br>Redis
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"  width="144" height="144" alt="Kubernetes" />
+        <img src="./assets/postgres.jpg"  width="144" alt="Kubernetes" />
       </a>
       <br>Postgress
     </td>
     <td align="center" >
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Debian" />
+        <img src="./assets/aws.jpg"  width="144" alt="Debian" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"  width="144" height="144" alt="Kubernetes" />
+        <img src="./assets/gcp.jpg"  width="144" alt="Kubernetes" />
       </a>
       <br>GCP
     </td>
     <td align="center" >
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Debian" />
+        <img src="./assets/nginx.jpg"  width="144" alt="Debian" />
       </a>
       <br>NGINX
     </td>
@@ -179,37 +179,37 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
   <tr>
     <td align="center" >
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="RHEL" />
+        <img src="./assets/git.jpg"  width="144" alt="RHEL" />
       </a>
       <br>Git
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg"  width="144" height="144" alt="Powershell" />
+        <img src="./assets/bitbucket.jpg"  width="144" alt="Powershell" />
       </a>
       <br>Bitbucket
     </td>
     <td align="center" >
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="MySQL" />
+        <img src="./assets/jenkins.jpg"  width="144" alt="MySQL" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg"  width="144" height="144" alt="Grafana" />
+        <img src="./assets/gitlab.jpg"  width="144" alt="Grafana" />
       </a>
       <br>Gitlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./assets/figma.svg" width="144" height="144" alt="Prometheus" />
+        <img src="./assets/webpack.jpg" width="144" alt="Prometheus" />
       </a>
       <br>webpack
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="144" height="144" alt="Thanos" />
+        <img src="./assets/more.jpg" width="144" alt="Thanos" />
       </a>
       <br>more..
     </td>
@@ -223,6 +223,3 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
 - 📊 Follow me on **[StackOverflow](https://stackoverflow.com/users/6510256/deepak-jha)**
 
 <br>
-<p align="right">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
- </p>
