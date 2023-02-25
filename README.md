@@ -89,13 +89,13 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/git-scm.svg"  width="144" alt="TypeScript" />
+        <img src="./assets/vue.jpg"  width="144" alt="TypeScript" />
       </a>
       <br>Vue.js
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/git-scm.svg"  width="144" alt="TypeScript" />
+        <img src="./assets/ngrx.jpg"  width="144" alt="TypeScript" />
       </a>
       <br>NGRX
     </td>
@@ -103,37 +103,37 @@ Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.j
   <tr>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="JavaScript" />
+        <img src="./assets/node.jpg"  width="144" alt="JavaScript" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech" >
-        <img src="./assets/figma.svg"  width="144" height="144" alt="React" />
+        <img src="./assets/express.jpg"  width="144" alt="React" />
       </a>
       <br>Express
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Bootstrap" />
+        <img src="./assets/nest.jpg"  width="144" alt="Bootstrap" />
       </a>
       <br>Nest.js
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Sass" />
+        <img src="./assets/mongo.jpg"  width="144" alt="Sass" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Bootstrap" />
+        <img src="./assets/mongoose.jpg"  width="144" alt="Bootstrap" />
       </a>
       <br>Mongoose
     </td>
     <td align="center" width="16.66%">
       <a href="#macropower-tech">
-        <img src="./assets/figma.svg"  width="144" height="144" alt="Sass" />
+        <img src="./assets/elasticsearch.jpg"  width="144" alt="Sass" />
       </a>
       <br>Elasticsearch
     </td>
